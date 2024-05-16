@@ -1,1 +1,1 @@
-console.log("hi");
+const uniqueValues = (arr) => [...new Set(arr)];
